@@ -1,0 +1,6 @@
+{
+  "name": "Othmar Creative Studio",
+  "description": "Creative Design & Digital Solutions Studio. We design and build digital experiences that move businesses forward.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
